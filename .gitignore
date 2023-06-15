@@ -1,0 +1,23 @@
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+
+# next.js build output
+.next
+
+# ParcelJS cache folder
+.cache/
+
+# ParcelJS build folder
+dist/
+
+# Local Netlify folder
+.netlify
+
+# Node Modules
+node_modules/
